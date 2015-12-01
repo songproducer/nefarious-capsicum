@@ -40,3 +40,5 @@ History tends to repeat itself. Early investors in the crypto-currency space are
 ### The rabbit hole...
 
 Head to the official <a href="https://getmonero.net/">Monero website</a> for more information on Monero. Check out the <a href="https://forum.getmonero.org/">forum</a>, sign up for a web wallet with <a href="https://mymonero.com/">MyMonero</a> and buy your first moneros (XMR) using <a href="https://poloniex.com/exchange#btc_xmr">Poloniex</a>.
+
+If you happen to be using Chrome there's a cool extension called <a href=https://chrome.google.com/webstore/detail/monero-monitor/ojekadcfnkkihlleaafggfgbggdckpgo/related">Monero Monitor</a> that gives you up to date information of Monero.
