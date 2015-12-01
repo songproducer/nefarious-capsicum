@@ -18,9 +18,9 @@ Bitcoin is a liberating tool and extremely interesting social experiment in mone
 
 ### Centralisation
 
-![building](/images/building.png)
-
 Bitcoin is mined these days mostly by large companies - the majority of which are mining in China because of the cheap electricity and access to mining equipment and proximity to fabrication houses (Taiwan). This is disconcerting when Satoshi's original vision was to have a *decentralised, peer to peer digital cash system*.
+
+![building](/images/building.png)
 
 With Monero it is not only ASIC resistant, but also GPU resistant too - meaning people with ordinary computers can participate in securing the network and be rewarded for doing so. Solo mining is even available - with the reward at around 7 - 8 <abbr title="crypto-currency unit code for Monero">XMR</abbr> (around $3 USD) don't expect to hit the jackpot anytime soon. The difficulty right now is high enough that an ordinary computer would only find a block once every 3 months. However, in the future it could be worth many multiples if Monero follows a similar trajectory that Bitcoin once did.
 
