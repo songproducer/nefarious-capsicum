@@ -22,4 +22,4 @@ Bitcoin is a liberating tool and extremely interesting social experiment in mone
 
 ### Use
 
-Head to the <a href="https://getmonero.net/">Official Monero website</a> for more information on Monero. Check out the <a href="https://forum.getmonero.org/">forum</a>, sign up for a web wallet with <a href="https://mymonero.com/">MyMonero</a> and buy your first moneros (XMR) using <a href="https://poloniex.com/exchange#btc_xmr">Poloniex</a>.
+Head to the official <a href="https://getmonero.net/">Monero website</a> for more information on Monero. Check out the <a href="https://forum.getmonero.org/">forum</a>, sign up for a web wallet with <a href="https://mymonero.com/">MyMonero</a> and buy your first moneros (XMR) using <a href="https://poloniex.com/exchange#btc_xmr">Poloniex</a>.
