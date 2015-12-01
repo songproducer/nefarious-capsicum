@@ -21,15 +21,15 @@ Bitcoin is a liberating tool and extremely interesting social experiment in mone
 
 Like Bitcoin, Monero has a finite supply (18.4 million) of which around 10.2 million are already generated.
 
-Unlike Bitcoin, Monero is not traceable by default (it's optional dependent on the user) and block size is dynamically adjusted. The details of how this works exactly will be the subject of another post.
+Unlike Bitcoin, Monero is not traceable by default and block size is dynamically adjusted. The details of how this works exactly will be the subject of another post.
 
 ### Centralisation
 
-Bitcoin is mined these days mostly by large companies - the majority of which are mining in China because of the cheap electricity and access to mining equipment and proximity to fabrication houses (Taiwan). This is disconcerting when Satoshi's original vision was to have a *decentralised, peer to peer digital cash system*.
+Bitcoin is mined these days mostly by large companies - the majority of which are mining in China because of the cheap electricity, access to mining equipment and proximity to fabrication houses (Taiwan). This is disconcerting when Satoshi's original vision was to have a *decentralised, peer to peer digital cash system*.
 
 ![building](/images/building.png)
 
-With Monero it is not only ASIC resistant, but also GPU resistant too - meaning people with ordinary computers can participate in securing the network and be rewarded for doing so. Solo mining is even available - with the reward at around 7.8 <abbr title="crypto-currency unit code for Monero">XMR</abbr> (around $2.92 USD) don't expect to hit the jackpot anytime soon. The difficulty right now is high enough that an ordinary computer would only find a block once every 3 months. However, in the future it could be worth many multiples if Monero follows a similar trajectory that Bitcoin once did.
+With Monero it is not only <abbr title="Application Specific Integrated Circuit">ASIC</a> resistant, but also <abbr title="Graphics Processing Unit">GPU</a> resistant too - meaning people with ordinary computers can participate in securing the network and be rewarded for doing so. Solo mining is even available - with the reward at around 7.8 <abbr title="crypto-currency unit code for Monero">XMR</abbr> (around $2.92 USD) don't expect to hit the jackpot anytime soon. The difficulty right now is high enough that an ordinary computer would only find a block once every 3 months. However, in the future it could be worth many multiples if Monero follows a similar trajectory that Bitcoin once did.
 
 ### How can I make money with Monero?
 
