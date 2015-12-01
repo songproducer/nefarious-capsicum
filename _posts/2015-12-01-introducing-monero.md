@@ -18,7 +18,7 @@ Bitcoin is a liberating tool and extremely interesting social experiment in mone
 
 ### Centralisation
 
-![building]({{ site.url }}/images/building.png)
+![building](/images/building.png)
 
 ### Use
 
