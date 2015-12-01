@@ -7,36 +7,19 @@ title: Introducing Monero
 
 -----
 
-Hi!
+### Bitcoin
 
-Poole is the butler for [Jekyll](http://jekyllrb.com), the static site generator. It's designed and developed by [@mdo](https://twitter.com/mdo) to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example templates, pages, posts, and styles.
+Bitcoin is a liberating tool and extremely interesting social experiment in money. However, it has some shortcomings as a medium of exchange.
 
-There are currently two themes built on Poole:
+* Full traceability is bad news for proprietary businesses that hold their business volume as a trade secret
+* Change addresses confuse new users
+* People seeking privacy must mix coins, losing value in fees or fraud
+* Fungibility is bad - exchanges can confiscate your bitcoins if they suspect they were involved in criminal transactions
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+### Centralisation
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+![building]({{ site.url }}/images/building.png)
 
-### What's included
+### Use
 
-Poole is a streamlined Jekyll site designed and built as a foundation for building more meaningful themes. Poole, and every theme built on it, includes the following:
-
-* Complete Jekyll setup included (layouts, config, [404]({{ site.baseurl }}/404.html), [RSS feed]({{ site.baseurl }}/atom.xml), posts, and [example page]({{ site.baseurl }}/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
-
-Additional features are available in individual themes.
-
-### Browser support
-
-Poole and its themes are by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
-
-### Download
-
-Poole is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/poole">GitHub repository</a> for downloads, bug reports, and features requests.
-
-Thanks!
+Head to the <a href="https://getmonero.net/">Official Monero website</a> for more information on Monero. Check out the <a href="https://forum.getmonero.org/">forum</a>, sign up for a web wallet with <a href="https://mymonero.com/">MyMonero</a> and buy your first moneros (XMR) using <a href="https://poloniex.com/exchange#btc_xmr">Poloniex</a>.
