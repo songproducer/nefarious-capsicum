@@ -9,7 +9,6 @@
 }
 
 .masthead-title {
-  display: block;
   margin-top: 0;
   margin-bottom: 0;
   color: #505050;
@@ -19,6 +18,7 @@
   }
 
   small {
+    display: block;
     font-size: 75%;
     font-weight: 400;
     color: #c0c0c0;
