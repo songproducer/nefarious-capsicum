@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Introducing Monero
+comments: true
 ---
 
 *A private crypto-currency with amazing fungibility and protocol level mixing* just about sums up the relatively new crypto-currency; Monero, created in April 2014.
