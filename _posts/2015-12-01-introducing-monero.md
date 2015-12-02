@@ -19,7 +19,7 @@ Bitcoin is a liberating tool and extremely interesting social experiment in mone
 * People explicitly seeking privacy usually mix coins, losing value in fees or fraud.
 * Poor fungibility - exchanges can confiscate your bitcoins if they suspect they were involved in criminal transactions.
 
-Like Bitcoin, Monero has a similar amount in total supply (18.4 million) of which around 10.2 million are already generated. It's worth pointing out that Monero's supply differs to Bitcoin because it has continual inflation (less than 1% per year) when the 18.4 million mark is reached (in about 10 years).
+Like Bitcoin, Monero has a similar amount in total supply (18.4 million) of which around 10.2 million are already generated. It's worth pointing out that Monero's supply differs to Bitcoin because it has continual inflation (less than 1% per year) when the 18.4 million mark is reached (2022).
 
 Another small difference is that Monero's reward is smoothly varying with the difficulty retargeting at every block.
 
