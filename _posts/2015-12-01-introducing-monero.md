@@ -19,9 +19,11 @@ Bitcoin is a liberating tool and extremely interesting social experiment in mone
 * People explicitly seeking privacy usually mix coins, losing value in fees or fraud.
 * Poor fungibility - exchanges can confiscate your bitcoins if they suspect they were involved in criminal transactions.
 
-Like Bitcoin, Monero has a finite supply (18.4 million) of which around 10.2 million are already generated.
+Like Bitcoin, Monero has a similar amount in total supply (18.4 million) of which around 10.2 million are already generated. It's worth pointing out that Monero's supply differs to Bitcoin because it has continual inflation (less than 1% per year) when the 18.4 million mark is reached (in about 10 years).
 
-Unlike Bitcoin, Monero is not traceable by default and block size is dynamically adjusted. The details of how this works exactly will be the subject of another post.
+Another small difference is that Monero's reward is smoothly varying with the difficulty retargeting at every block.
+
+Unlike Bitcoin however, Monero is not traceable by default and block size is dynamically adjusted. The details of how this works exactly will be the subject of another post.
 
 ### Centralisation
 
@@ -39,6 +41,6 @@ History tends to repeat itself. Early investors in the crypto-currency space are
 
 ### The rabbit hole...
 
-Head to the official <a href="https://getmonero.net/">Monero website</a> for more information on Monero. Check out the <a href="https://forum.getmonero.org/">forum</a>, sign up for a web wallet with <a href="https://mymonero.com/">MyMonero</a> and buy your first moneros (<abbr title="crypto-currency unit code for Monero">XMR</abbr>) using <a href="https://poloniex.com/exchange#btc_xmr">Poloniex</a>.
+Head to the official <a href="https://getmonero.org/">Monero website</a> for more information on Monero. Check out the <a href="https://forum.getmonero.org/">forum</a>, sign up for a web wallet with <a href="https://mymonero.com/">MyMonero</a> and buy your first moneros (<abbr title="crypto-currency unit code for Monero">XMR</abbr>) using <a href="https://poloniex.com/exchange#btc_xmr">Poloniex</a>.
 
 If you happen to be using Chrome there's a cool extension called <a href="https://chrome.google.com/webstore/detail/monero-monitor/ojekadcfnkkihlleaafggfgbggdckpgo/related">Monero Monitor</a> that gives you up to date information of Monero.
