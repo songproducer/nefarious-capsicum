@@ -1,269 +1,150 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Poole</title>
- <link href="http://getpoole.com/atom.xml" rel="self"/>
- <link href="http://getpoole.com/"/>
- <updated>2015-12-01T08:13:56+08:00</updated>
- <id>http://getpoole.com</id>
+ <title>Make money while you work</title>
+ <link href="http://makemoneywhileyouwork.com/atom.xml" rel="self"/>
+ <link href="http://makemoneywhileyouwork.com/"/>
+ <updated>2015-12-05T03:52:44+08:00</updated>
+ <id>http://makemoneywhileyouwork.com</id>
  <author>
-   <name>Mark Otto</name>
-   <email>markdotto@gmail.com</email>
+   <name>Leo Treasure</name>
+   <email>leotreasure@gmail.com</email>
  </author>
 
  
  <entry>
-   <title>Introducing Poole</title>
-   <link href="http://getpoole.com/2014/01/02/introducing-poole/"/>
-   <updated>2014-01-02T00:00:00+08:00</updated>
-   <id>http://getpoole.com/2014/01/02/introducing-poole</id>
-   <content type="html">&lt;p&gt;&lt;em&gt;The Strange Case of Dr. Jekyll and Mr. Hyde&lt;/em&gt; tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel’s supporting cast is a man by the name of Mr. Poole, Dr. Jekyll’s loyal butler.&lt;/p&gt;
+   <title>Monero Experience</title>
+   <link href="http://makemoneywhileyouwork.com/2015/12/04/monero-experience-01/"/>
+   <updated>2015-12-04T00:00:00+08:00</updated>
+   <id>http://makemoneywhileyouwork.com/2015/12/04/monero-experience-01</id>
+   <content type="html">&lt;h4 id=&quot;the-following-post-is-a-guest-post-by-an-anonymous-contributor&quot;&gt;The following post is a guest post by an anonymous contributor&lt;/h4&gt;
 
-&lt;hr /&gt;
+&lt;h1 id=&quot;using-monero-xmr-is-easy&quot;&gt;Using Monero (XMR) is easy&lt;/h1&gt;
 
-&lt;p&gt;Poole is the butler for &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;, the static site generator. It’s designed and developed by &lt;a href=&quot;https://twitter.com/mdo&quot;&gt;@mdo&lt;/a&gt; to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example templates, pages, posts, and styles.&lt;/p&gt;
+&lt;h3 id=&quot;what-monero-is&quot;&gt;What Monero is&lt;/h3&gt;
 
-&lt;p&gt;There are currently two themes built on Poole:&lt;/p&gt;
+&lt;p&gt;Monero is a digital crypto-currency based on Crypto-note technology. Monero is a safe transaction based currency with some special features such as a payment address and a payment ID. The Crypto-note is the basis on how this currency is mined.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://hyde.getpoole.com&quot;&gt;Hyde&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://lanyon.getpoole.com&quot;&gt;Lanyon&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h3 id=&quot;my-experience&quot;&gt;My experience&lt;/h3&gt;
 
-&lt;p&gt;Learn more and contribute on &lt;a href=&quot;https://github.com/poole&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;My experience with Monero (XMR) was really a positive one knowing that this type of digital currency had not only a payment address, but also a payment ID. This was easy for me to understand since it was a direct comparison to any normal bank account with a transit number and an account number. The one thing that was a great security was in order to use a digital currency exchange web site, you would have to enter both the payment address, and the payment ID to be sure only you received the Monero.  Using Monero (XMR) was very easy, as is using any of the other Digital Currencies, with one exception, Monero is a more secure transaction.&lt;/p&gt;
 
-&lt;h3 id=&quot;whats-included&quot;&gt;What’s included&lt;/h3&gt;
+&lt;p&gt;Monero digital currency is valued at approximately $0.38 USD. At present, Monero can be used in the entertainment of online casinos. Hopefully, in the future, there will be more markets to spend Monero so there is less fees in exchanging Monero to another currency.&lt;/p&gt;
 
-&lt;p&gt;Poole is a streamlined Jekyll site designed and built as a foundation for building more meaningful themes. Poole, and every theme built on it, includes the following:&lt;/p&gt;
+&lt;h3 id=&quot;getting-started&quot;&gt;Getting started&lt;/h3&gt;
+&lt;p&gt;The first thing I did was to download the Monero Digital Wallet from &lt;a href=&quot;https://getmonero.org&quot;&gt;getmonero.org&lt;/a&gt;.  Downloading the wallet and installing was simple, as I have used many digital currencies to date.  The setup program for the digital wallet was simple, and really did not take that much thought to install for me.  After I have set up the wallet, which was easy, the next step was to get the right program to start mining Monero.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Complete Jekyll setup included (layouts, config, &lt;a href=&quot;/404.html&quot;&gt;404&lt;/a&gt;, &lt;a href=&quot;/atom.xml&quot;&gt;RSS feed&lt;/a&gt;, posts, and &lt;a href=&quot;/about&quot;&gt;example page&lt;/a&gt;)&lt;/li&gt;
-  &lt;li&gt;Mobile friendly design and development&lt;/li&gt;
-  &lt;li&gt;Easily scalable text and component sizing with &lt;code class=&quot;highlighter-rouge&quot;&gt;rem&lt;/code&gt; units in the CSS&lt;/li&gt;
-  &lt;li&gt;Support for a wide gamut of HTML elements&lt;/li&gt;
-  &lt;li&gt;Related posts (time-based, because Jekyll) below each post&lt;/li&gt;
-  &lt;li&gt;Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h3 id=&quot;mining-for-monero&quot;&gt;Mining For Monero.&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/images/MoneroExperience01.png&quot; alt=&quot;Minergate&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Additional features are available in individual themes.&lt;/p&gt;
+&lt;p&gt;Mining Monero I found to be very easy, with no confusing codes or .bat files to type. The easiest program I found was Minergate. Minergate can be downloaded from &lt;a href=&quot;https://www.minergate.com&quot;&gt;www.minergate.com&lt;/a&gt;. This program allowed me to use my two computers with quad four processors (4 CPU cores). Using Minergate allowed me to mine Monero as well as a bonus coin on one computer, as well as mining Bytecoin (BCN) and the bonus coin on the second one.&lt;/p&gt;
 
-&lt;h3 id=&quot;browser-support&quot;&gt;Browser support&lt;/h3&gt;
+&lt;p&gt;The Minergate program has a built in wallet to store the Monero and other coins mined, this makes it easier to send the coins in bulk to your wallet or exchange web site. It has been my experience that depending on what type of computer you have, or if you are CPU mining or GPU mining, makes a difference on how long it will take to get results. Even though I was CPU mining I did have results fast. The Monero was partial coins, but that was not really bad, since after only a week I had a few thousand Bytecoins (BCN) that I send to a web based exchange and exchanged them for Monero.&lt;/p&gt;
 
-&lt;p&gt;Poole and its themes are by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.&lt;/p&gt;
+&lt;p&gt;Since Bytecoin came in very fast and more frequently I opened up an exchange site at &lt;a href=&quot;https://poloniex.com&quot;&gt;poloniex.com&lt;/a&gt;. This allowed me to send my Bytecoins to the exchange and trade them for Monero very quickly. I did not have any long delays and the Monero was in my Poloniex account within minutes. Monero is also a very easy currency to use, because it is able to be traded to many other currencies rapidly as well.&lt;/p&gt;
 
-&lt;h3 id=&quot;download&quot;&gt;Download&lt;/h3&gt;
+&lt;h3 id=&quot;things-to-be-aware-of&quot;&gt;Things to be aware of&lt;/h3&gt;
 
-&lt;p&gt;Poole is developed on and hosted with GitHub. Head to the &lt;a href=&quot;https://github.com/poole/poole&quot;&gt;GitHub repository&lt;/a&gt; for downloads, bug reports, and features requests.&lt;/p&gt;
+&lt;p&gt;Just like any other site that you want information on always be sure to go to the official sites. With Monero the official site is &lt;a href=&quot;https://getmonero.org&quot;&gt;getmonero.org&lt;/a&gt;. Do not use any other site that looks similar, you will only be disappointed.&lt;/p&gt;
 
-&lt;p&gt;Thanks!&lt;/p&gt;
+&lt;p&gt;To sum it up Monero can be obtained through mining and can be used to play in a few entertainment online casino sites. I have found that trading Monero is by far easier than you think. I have had an easy time mining and using Monero.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Example content</title>
-   <link href="http://getpoole.com/2014/01/01/example-content/"/>
-   <updated>2014-01-01T00:00:00+08:00</updated>
-   <id>http://getpoole.com/2014/01/01/example-content</id>
-   <content type="html">&lt;div class=&quot;message&quot;&gt;
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
+   <title>Monero Addresses Infographic</title>
+   <link href="http://makemoneywhileyouwork.com/2015/12/04/monero-addresses-infographic/"/>
+   <updated>2015-12-04T00:00:00+08:00</updated>
+   <id>http://makemoneywhileyouwork.com/2015/12/04/monero-addresses-infographic</id>
+   <content type="html">&lt;div class=&quot;piktowrapper-embed&quot; pikto-uid=&quot;9821437-why-monero-addresses-are-so-obscenely-long&quot;&gt;
+    &lt;div class=&quot;pikto-canvas-wrap&quot;&gt;
+        &lt;div class=&quot;pikto-canvas&quot;&gt;&lt;/div&gt;
+    &lt;/div&gt;
 &lt;/div&gt;
+&lt;script&gt;
+    (function(d){
+        var js, id=&quot;pikto-embed-js&quot;, ref=d.getElementsByTagName(&quot;script&quot;)[0];
+        if (d.getElementById(id)) { return;}
+        js=d.createElement(&quot;script&quot;); js.id=id; js.async=true;
+        js.src=&quot;https://magic.piktochart.com/assets/embedding/embed.js&quot;;
+        ref.parentNode.insertBefore(js, ref);
+    }(document));
+&lt;/script&gt;
 
-&lt;p&gt;Cum sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt;
-
-&lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt;
-
-&lt;p&gt;HTML defines a long list of available inline tags, a complete list of which can be found on the &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/HTML/Element&quot;&gt;Mozilla Developer Network&lt;/a&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;To bold text&lt;/strong&gt;, use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;strong&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;To italicize text&lt;/em&gt;, use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;em&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-  &lt;li&gt;Abbreviations, like &lt;abbr title=&quot;HyperText Markup Langage&quot;&gt;HTML&lt;/abbr&gt; should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;abbr&amp;gt;&lt;/code&gt;, with an optional &lt;code class=&quot;highlighter-rouge&quot;&gt;title&lt;/code&gt; attribute for the full phrase.&lt;/li&gt;
-  &lt;li&gt;Citations, like &lt;cite&gt;— Mark otto&lt;/cite&gt;, should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;cite&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Deleted&lt;/del&gt; text should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;del&amp;gt;&lt;/code&gt; and &lt;ins&gt;inserted&lt;/ins&gt; text should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;ins&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-  &lt;li&gt;Superscript &lt;sup&gt;text&lt;/sup&gt; uses &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;sup&amp;gt;&lt;/code&gt; and subscript &lt;sub&gt;text&lt;/sub&gt; uses &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;sub&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Most of these elements are styled by browsers with few modifications on our part.&lt;/p&gt;
-
-&lt;h2 id=&quot;footnotes&quot;&gt;Footnotes&lt;/h2&gt;
-
-&lt;p&gt;Footnotes are supported as part of the Markdown syntax. Here’s one in action. Clicking this number&lt;sup id=&quot;fnref:fn-sample_footnote&quot;&gt;&lt;a href=&quot;#fn:fn-sample_footnote&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; will lead you to a footnote. The syntax looks like:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;Clicking this number[^fn-sample_footnote]&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Each footnote needs the &lt;code class=&quot;highlighter-rouge&quot;&gt;^fn-&lt;/code&gt; prefix and a unique ID to be referenced for the footnoted content. The syntax for that list looks something like this:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;[^fn-sample_footnote]: Handy! Now click the return link to go back.&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;You can place the footnoted content wherever you like. Markdown parsers should properly place it at the bottom of the post.&lt;/p&gt;
-
-&lt;h2 id=&quot;heading&quot;&gt;Heading&lt;/h2&gt;
-
-&lt;p&gt;Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.&lt;/p&gt;
-
-&lt;h3 id=&quot;code&quot;&gt;Code&lt;/h3&gt;
-
-&lt;p&gt;Inline code is available with the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;code&amp;gt;&lt;/code&gt; element. Snippets of multiple lines of code are supported through Pygments. Longer lines will automatically scroll horizontally when needed.&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// Example can be run directly in your JavaScript console
-&lt;/span&gt;
-
-&lt;span class=&quot;c1&quot;&gt;// Create a function that takes two arguments and returns the sum of those arguments
-&lt;/span&gt;
-&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;a&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;b&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;return a + b&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-
-&lt;span class=&quot;c1&quot;&gt;// Call the function
-&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;// &amp;gt; 8&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;You may also optionally show code snippets with line numbers. Add &lt;code class=&quot;highlighter-rouge&quot;&gt;linenos&lt;/code&gt; to the Pygments tags.&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;table style=&quot;border-spacing: 0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter gl&quot; style=&quot;text-align: right&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-4
-5
-6
-7
-8&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;c1&quot;&gt;// Example can be run directly in your JavaScript console
-&lt;/span&gt;
-
-&lt;span class=&quot;c1&quot;&gt;// Create a function that takes two arguments and returns the sum of those arguments
-&lt;/span&gt;
-&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;a&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;b&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;return a + b&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-
-&lt;span class=&quot;c1&quot;&gt;// Call the function
-&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;// &amp;gt; 8&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.&lt;/p&gt;
-
-&lt;h3 id=&quot;gists-via-github-pages&quot;&gt;Gists via GitHub Pages&lt;/h3&gt;
-
-&lt;p&gt;Vestibulum id ligula porta felis euismod semper. Nullam quis risus eget urna mollis ornare vel eu leo. Donec sed odio dui.&lt;/p&gt;
-
-&lt;noscript&gt;&lt;pre&gt;400: Invalid request
-&lt;/pre&gt;&lt;/noscript&gt;
-&lt;script src=&quot;https://gist.github.com/13f94b734a4ddb132735.js?file=gist.md&quot;&gt; &lt;/script&gt;
-
-&lt;p&gt;Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Vestibulum id ligula porta felis euismod semper.&lt;/p&gt;
-
-&lt;h3 id=&quot;lists&quot;&gt;Lists&lt;/h3&gt;
-
-&lt;p&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Praesent commodo cursus magna, vel scelerisque nisl consectetur et.&lt;/li&gt;
-  &lt;li&gt;Donec id elit non mi porta gravida at eget metus.&lt;/li&gt;
-  &lt;li&gt;Nulla vitae elit libero, a pharetra augue.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Vestibulum id ligula porta felis euismod semper.&lt;/li&gt;
-  &lt;li&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.&lt;/li&gt;
-  &lt;li&gt;Maecenas sed diam eget risus varius blandit sit amet non magna.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.&lt;/p&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;HyperText Markup Language (HTML)&lt;/dt&gt;
-  &lt;dd&gt;The language used to describe and define the content of a Web page&lt;/dd&gt;
-
-  &lt;dt&gt;Cascading Style Sheets (CSS)&lt;/dt&gt;
-  &lt;dd&gt;Used to describe the appearance of Web content&lt;/dd&gt;
-
-  &lt;dt&gt;JavaScript (JS)&lt;/dt&gt;
-  &lt;dd&gt;The programming language used to build advanced Web sites and applications&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;p&gt;Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.&lt;/p&gt;
-
-&lt;h3 id=&quot;images&quot;&gt;Images&lt;/h3&gt;
-
-&lt;p&gt;Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://placehold.it/800x400&quot; alt=&quot;placeholder&quot; title=&quot;Large example image&quot; /&gt;
-&lt;img src=&quot;http://placehold.it/400x200&quot; alt=&quot;placeholder&quot; title=&quot;Medium example image&quot; /&gt;
-&lt;img src=&quot;http://placehold.it/200x200&quot; alt=&quot;placeholder&quot; title=&quot;Small example image&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;tables&quot;&gt;Tables&lt;/h3&gt;
-
-&lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Name&lt;/th&gt;
-      &lt;th&gt;Upvotes&lt;/th&gt;
-      &lt;th&gt;Downvotes&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tfoot&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Totals&lt;/td&gt;
-      &lt;td&gt;21&lt;/td&gt;
-      &lt;td&gt;23&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tfoot&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Alice&lt;/td&gt;
-      &lt;td&gt;10&lt;/td&gt;
-      &lt;td&gt;11&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Bob&lt;/td&gt;
-      &lt;td&gt;4&lt;/td&gt;
-      &lt;td&gt;3&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Charlie&lt;/td&gt;
-      &lt;td&gt;7&lt;/td&gt;
-      &lt;td&gt;9&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Want to see something else added? &lt;a href=&quot;https://github.com/poole/poole/issues/new&quot;&gt;Open an issue.&lt;/a&gt;&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:fn-sample_footnote&quot;&gt;
-      &lt;p&gt;Handy! Now click the return link to go back. &lt;a href=&quot;#fnref:fn-sample_footnote&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
 </content>
  </entry>
  
  <entry>
-   <title>What's Jekyll?</title>
-   <link href="http://getpoole.com/2013/12/31/whats-jekyll/"/>
-   <updated>2013-12-31T00:00:00+08:00</updated>
-   <id>http://getpoole.com/2013/12/31/whats-jekyll</id>
-   <content type="html">&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/jekyll/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
+   <title>Monero Infographic</title>
+   <link href="http://makemoneywhileyouwork.com/2015/12/03/monero-infographic/"/>
+   <updated>2015-12-03T00:00:00+08:00</updated>
+   <id>http://makemoneywhileyouwork.com/2015/12/03/monero-infographic</id>
+   <content type="html">&lt;div class=&quot;piktowrapper-embed&quot; pikto-uid=&quot;9812080-monero-infographic&quot;&gt;
+    &lt;div class=&quot;pikto-canvas-wrap&quot;&gt;
+        &lt;div class=&quot;pikto-canvas&quot;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;script&gt;
+    (function(d){
+        var js, id=&quot;pikto-embed-js&quot;, ref=d.getElementsByTagName(&quot;script&quot;)[0];
+        if (d.getElementById(id)) { return;}
+        js=d.createElement(&quot;script&quot;); js.id=id; js.async=true;
+        js.src=&quot;https://magic.piktochart.com/assets/embedding/embed.js&quot;;
+        ref.parentNode.insertBefore(js, ref);
+    }(document));
+&lt;/script&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;Jekyll is a simple, blog aware, static site generator. It takes a template directory […] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.&lt;/p&gt;
-&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Introducing Monero</title>
+   <link href="http://makemoneywhileyouwork.com/2015/12/01/introducing-monero/"/>
+   <updated>2015-12-01T00:00:00+08:00</updated>
+   <id>http://makemoneywhileyouwork.com/2015/12/01/introducing-monero</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;A private crypto-currency with amazing fungibility and protocol level mixing&lt;/em&gt; just about sums up the relatively new crypto-currency; Monero, created in April 2014.&lt;/p&gt;
 
-&lt;p&gt;It’s an immensely useful tool. Find out more by &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;visiting the project on GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;crypto-currency-adoption&quot;&gt;Crypto-currency adoption&lt;/h3&gt;
+&lt;p&gt;While many people have heard of Bitcoin, (and some of those have heard of Dogecoin or Litecoin) most people have never heard of Monero. Some people complain about missing the Bitcoin boat. I personally don’t think that boat has sailed yet (though there’d be many who’d disagree). You’re here reading about Monero before it’s in the news so if you buy some at these price levels you’ll be an early adopter. I do think Monero is going to be a hot topic in world news due to its high degree of decentralisation and anonymity.&lt;/p&gt;
+
+&lt;h3 id=&quot;bitcoin&quot;&gt;Bitcoin&lt;/h3&gt;
+
+&lt;p&gt;Bitcoin is a liberating tool and extremely interesting social experiment in money. However, there are some difficulties using it as a medium of exchange:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Full traceability is bad news for proprietary businesses (competitors can glean information using blockchain analysis).&lt;/li&gt;
+  &lt;li&gt;Uncertainty over block size consensus.&lt;/li&gt;
+  &lt;li&gt;People explicitly seeking privacy usually mix coins, losing value in fees or fraud.&lt;/li&gt;
+  &lt;li&gt;Poor fungibility - exchanges can confiscate your bitcoins if they suspect they were involved in criminal transactions.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Like Bitcoin, Monero has a similar amount in total supply (18.4 million) of which around 10.2 million are already generated. It’s worth pointing out that Monero’s supply differs to Bitcoin because it has continual inflation (less than 1% per year) when the 18.4 million mark is reached (2022).&lt;/p&gt;
+
+&lt;p&gt;Another small difference is that Monero’s reward is smoothly varying with the difficulty retargeting at every block.&lt;/p&gt;
+
+&lt;p&gt;Unlike Bitcoin however, Monero is not traceable by default and block size is dynamically adjusted. The details of how this works exactly will be the subject of another post.&lt;/p&gt;
+
+&lt;h3 id=&quot;centralisation&quot;&gt;Centralisation&lt;/h3&gt;
+
+&lt;p&gt;Bitcoin is mined these days mostly by large companies - the majority of which are mining in China because of the cheap electricity, access to mining equipment and proximity to fabrication houses (Taiwan). This is disconcerting when Satoshi’s original vision was to have a &lt;em&gt;decentralised, peer to peer digital cash system&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/building.png&quot; alt=&quot;building&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;With Monero it is not only &lt;abbr title=&quot;Application Specific Integrated Circuit&quot;&gt;ASIC&lt;/abbr&gt; resistant, but also &lt;abbr title=&quot;Graphics Processing Unit&quot;&gt;GPU&lt;/abbr&gt; resistant too - meaning people with ordinary computers can participate in securing the network and be rewarded for doing so. Solo mining is even available - with the reward at around 7.8 &lt;abbr title=&quot;crypto-currency unit code for Monero&quot;&gt;XMR&lt;/abbr&gt; (around $2.92 USD) don’t expect to hit the jackpot anytime soon. The difficulty right now is high enough that an ordinary computer would only find a block once every 3 months. However, in the future it could be worth many multiples if Monero follows a similar trajectory that Bitcoin once did.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-can-i-make-money-with-monero&quot;&gt;How can I make money with Monero?&lt;/h3&gt;
+
+&lt;p&gt;Looking back over the last few years, &lt;a href=&quot;http://www.theguardian.com/technology/2013/oct/29/bitcoin-forgotten-currency-norway-oslo-home&quot;&gt;some people made an absolute fortune&lt;/a&gt; with Bitcoin &lt;a href=&quot;http://www.theguardian.com/technology/blog/2013/jul/01/bitcoin-virtual-fortune-crypto-currency&quot;&gt;simply mining&lt;/a&gt; or buying small amounts if it when it was worth next to nothing.&lt;/p&gt;
+
+&lt;p&gt;History tends to repeat itself. Early investors in the crypto-currency space are well positioned in the events of the global economy faltering, a bank collapsing, a stock market crash or even if none of the above happens and Internet trade just increases. Monero is worth around 37.5 cents at the time of writing. If more people value private digital cash in the future the value will increase - how much it increases by is anyone’s guess! Monero holds a number of advantages over Bitcoin and as more people discover this, its market value should increase.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-rabbit-hole&quot;&gt;The rabbit hole…&lt;/h3&gt;
+
+&lt;p&gt;Head to the official &lt;a href=&quot;https://getmonero.org/&quot;&gt;Monero website&lt;/a&gt; for more information on Monero. Check out the &lt;a href=&quot;https://forum.getmonero.org/&quot;&gt;forum&lt;/a&gt;, sign up for a web wallet with &lt;a href=&quot;https://mymonero.com/&quot;&gt;MyMonero&lt;/a&gt; and buy your first moneros (&lt;abbr title=&quot;crypto-currency unit code for Monero&quot;&gt;XMR&lt;/abbr&gt;) using &lt;a href=&quot;https://poloniex.com/exchange#btc_xmr&quot;&gt;Poloniex&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you happen to be using Chrome there’s a cool extension called &lt;a href=&quot;https://chrome.google.com/webstore/detail/monero-monitor/ojekadcfnkkihlleaafggfgbggdckpgo/related&quot;&gt;Monero Monitor&lt;/a&gt; that gives you up to date information of Monero.&lt;/p&gt;
 </content>
  </entry>
  
