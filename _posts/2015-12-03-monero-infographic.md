@@ -4,7 +4,7 @@ title: Monero Infographic
 comments: true
 ---
 
-<div class="piktowrapper-embed" pikto-uid="9812080-monero-infographic" >
+<div class="piktowrapper-embed" pikto-uid="9886574-monero-infographic-updated" >
     <div class="pikto-canvas-wrap">
         <div class="pikto-canvas"></div>
     </div>
