@@ -55,6 +55,7 @@ The kind of frowned upon way. I personally don’t like this method. This wasn�
 Getting Started with Monero
 ---------------------------
 There are two ways to get started with Monero. There aren’t many faucets yet, so you’re pretty much limited to either buying or mining.
+
 ##Buying Monero
 You aren’t really going to find many places to buy Monero for cash. The easiest way to get some Monero is to first buy some of (almost) any cryptocurrency, most likely Bitcoin or Litecoin. Then, you go to [shapeshift.io](https://shapeshift.io). ShapeShift is a website that will convert (almost) any cryptocurrency, with no account required.
 
