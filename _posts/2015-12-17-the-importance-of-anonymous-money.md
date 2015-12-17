@@ -35,9 +35,9 @@ As a consumer, you expect that when someone uses their bank account to scam you 
 
 >You didn’t contribute to the loss
 
-So if you send money to a bank account, that is contributing to the loss and there is no protection for your loss.
+So if you send money to a bank account, that is contributing to the loss and there is no protection for that loss.
 
-In a world without cash and more dependability on banking services, I expect there'd be the same level or more fraud because scammers will just spend their ill gotten gains ASAP anyway, leaving a merchant somewhere at a loss if the transaction is reversed.
+In a world without cash and more dependability on banking services, I expect there'd be the same level or more fraud because scammers will spend their ill gotten gains ASAP anyway, leaving a merchant somewhere at a loss if the transaction is reversed.
 
 ###More tax collected
 If everyone was forced to use a government monitored stored value account, nobody could possible avoid paying tax. This is just a recipe for disaster. Paying tax not only supports schools, hospitals and police - it also supports political corruption, corporations (who usually don't pay tax anyway), propaganda, cronyism, inequality and most disgustingly, large scale wars.
