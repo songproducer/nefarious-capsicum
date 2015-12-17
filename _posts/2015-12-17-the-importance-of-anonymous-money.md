@@ -14,10 +14,10 @@ If we required every transaction to be detailed with the nature and purpose, alo
 The regulations around knowing your customer currently only apply to financial services businesses because they deal with large amounts of money. If every bank checked what the purpose was for every transaction (large or small), many people will get a lot more questions about their daily shopping activities.
 
 >'You bought this tablet just for yourself?'
-
+>
 >'Yes.'
-
->'Okay, make sure to register any family members or friends who do any online shopping on it with the bank.'
+>
+>'Okay, make sure to register any family members or friends who do any online shopping on it with us.'
 
 This example is kind of exaggerated and I hope it never gets anywhere close to this but it shows how complete knowledge of a customer's activities might engender a mutual distrust.
 
