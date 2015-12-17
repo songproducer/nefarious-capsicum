@@ -11,7 +11,7 @@ Imagine a world where all transactions were between known and identified parties
 ###Less crime, or more?
 If we required every transaction to be detailed with the nature and purpose, along with the identities to reduce crime, it may save lives - but at what cost?
 
-The regulations around knowing your customer currently only apply to financial services businesses because they deal with large amounts of money. If every bank checked what the purpose was for every transaction (large or small), many people will get a lot more questions about their daily shopping activities.
+The regulations around knowing your customer currently only apply to financial services businesses because they deal with large amounts of money. If every bank checked what the purpose was for every transaction (large or small), people would get silly questions about their shopping activities for example.
 
 >'You bought this tablet just for yourself?'
 >
