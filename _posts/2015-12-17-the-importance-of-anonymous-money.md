@@ -21,7 +21,7 @@ The regulations around knowing your customer currently only apply to financial s
 
 This example is kind of exaggerated and I hope it never gets anywhere close to this but it shows how complete knowledge of a customer's activities might engender a mutual distrust.
 
-####Have you ever bought bitcoins?
+**Have you bought bitcoins before?**
 In case you haven't experienced buying bitcoins yet, try using your bank account and see if you receive a phone call from your bank inquiring about the reason why you are buying them. You can tell them you were just trying it to see if they would check up on your transactions!
 
 ###Less fraud (because banks have everything under control)
