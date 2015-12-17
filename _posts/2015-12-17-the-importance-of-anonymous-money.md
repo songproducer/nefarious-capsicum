@@ -51,3 +51,7 @@ And there are many other illicit drugs that can also have [psychological health 
 
 ###Other illegal acts
 If you take away peoples' privacy, control, money and drugs - it really is the best recipe to encourage them to commit other illegal acts to fight 'the system'. The government should treat its citizens like with maturity and respect and not distrust and contempt.
+
+###Isn't Bitcoin anonymous?
+No.
+<http://www.bitcoinisnotanonymous.com>
