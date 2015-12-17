@@ -6,7 +6,7 @@ comments: true
 
 ##If cash were banned...
 
-Imagine a world where all transactions were between known identified parties. A world where cash had been successfully replaced by banking products that followed Know Your Customer procedures diligently. The argument for this utopia goes that there'd be much less crime in general, less fraud, tax evasion, illicit drugs & other illegal acts.
+Imagine a world where all transactions were between known and identified parties, cash replaced by banking products that followed 'Know Your Customer' procedures diligently. The argument for this utopia goes that there'd be much less crime in general, less fraud, tax evasion, illicit drugs & other illegal acts.
 
 ###Less crime, or more?
 If we required every transaction to be detailed with the nature and purpose, along with the identities to reduce crime, it may save lives - but at what cost?
