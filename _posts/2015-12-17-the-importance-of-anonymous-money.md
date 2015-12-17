@@ -54,4 +54,5 @@ If you take away peoples' privacy, control, money and drugs - it really is the b
 
 ###Isn't Bitcoin anonymous?
 No.
-<http://www.bitcoinisnotanonymous.com>
+
+[bitcoinisnotanonymous.com](http://www.bitcoinisnotanonymous.com)
