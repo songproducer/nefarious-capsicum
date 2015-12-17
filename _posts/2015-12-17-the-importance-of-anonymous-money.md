@@ -5,7 +5,7 @@ comments: true
 ---
 
 ##If cash were banned...
-![wallet with only credit cards](images/wallet.jpg)
+![wallet with only credit cards](/images/wallet.jpg)
 
 Imagine a world where all transactions were between known and identified parties, cash replaced by banking products that followed 'Know Your Customer' procedures diligently. The argument for this utopia goes that there'd be much less crime in general, less fraud, tax evasion, illicit drugs & other illegal acts.
 
