@@ -69,7 +69,7 @@ Dash's mixing system is currently called *Dark Send*. For a detailed overview [r
 
 A quick description of the process is you press the *'Start Darksend Mixing'* button and this is like a premixing step. Every **10** blocks *Master Nodes* mix your coins and break them down into homogenous denominations, giving you back other people's (or liquidity providers) mixed coins of the same denominations.
 
-The catch is though that the process has a percentage status bar and if it doesn't reach 100% then the mix is tainted with your original coins.
+The catch is though, the process has a percentage status bar and if it doesn't reach 100% then the mix is tainted with your original coins.
 
 Initially I wanted to do this experiment with only 0.01 bitcoin, but as I found out the hard way - Dash has a minimum threshold requirement of 1.49 Dash (and my 0.01 bitcoin only got me 1.43!)
 
