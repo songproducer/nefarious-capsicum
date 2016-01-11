@@ -4,8 +4,9 @@ title: Using alt coins to mix bitcoins
 comments: true
 ---
 
-If you're wondering why mixing bitcoins is important you should read the following link
-[https://bitcoin.org/en/protect-your-privacy]
+If you're wondering why mixing bitcoins is important you should read the following link:
+
+[bitcoin.org/en/protect-your-privacy](https://bitcoin.org/en/protect-your-privacy)
 
 For those who don't have time all you need to know about Bitcoin and Privacy is:
 
