@@ -4,13 +4,272 @@
  <title>Make money while you work</title>
  <link href="http://makemoneywhileyouwork.com/atom.xml" rel="self"/>
  <link href="http://makemoneywhileyouwork.com/"/>
- <updated>2015-12-08T18:00:39+08:00</updated>
+ <updated>2016-01-12T03:59:46+08:00</updated>
  <id>http://makemoneywhileyouwork.com</id>
  <author>
    <name>Leo Treasure</name>
    <email>leotreasure@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Using alt coins to mix bitcoins</title>
+   <link href="http://makemoneywhileyouwork.com/2016/01/11/using-alt-coins-to-mix-bitcoins/"/>
+   <updated>2016-01-11T00:00:00+08:00</updated>
+   <id>http://makemoneywhileyouwork.com/2016/01/11/using-alt-coins-to-mix-bitcoins</id>
+   <content type="html">&lt;p&gt;If you’re wondering why mixing bitcoins is important you should read the following link
+https://bitcoin.org/en/protect-your-privacy&lt;/p&gt;
+
+&lt;p&gt;For those who don’t have time all you need to know about Bitcoin and Privacy is:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Anyone can see the balance and all transactions of any address&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;You might be wondering, why use an alternative coin to mix bitcoins when you can just use bitcoins?&lt;/p&gt;
+
+&lt;p&gt;Because Bitcoin’s blockchain is able to be analysed more easily by anyone with access to blockchain analysis tools like &lt;a href=&quot;https://www.walletexplorer.com/&quot;&gt;Wallet Explorer&lt;/a&gt;, &lt;a href=&quot;http://coinalytics.co/&quot;&gt;Coinalytics&lt;/a&gt; and &lt;a href=&quot;http://www.quantabytes.com/&quot;&gt;QuantaBytes&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;So while there are many ways to mix bitcoins, I wanted to compare two alternative coins that are touted to make your transaction activity private and untraceable; &lt;a href=&quot;https://www.dash.org/&quot;&gt;Dash&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://getmonero.org/home&quot;&gt;Monero&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;my-goal-was-to-mix-the-relatively-small-sum-of-002-bitcoins-just-under-10-usd-worth&quot;&gt;My goal was to mix the relatively small sum of 0.02 bitcoins (just under $10 USD worth)&lt;/h4&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;The process:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Buy the alt coin with Bitcoin&lt;/li&gt;
+  &lt;li&gt;Use the alt coin’s mixing function&lt;/li&gt;
+  &lt;li&gt;Sell the alt coin back for Bitcoin&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;results-table&quot;&gt;Results table&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Note:&lt;/em&gt; &lt;strong&gt;XBT&lt;/strong&gt; = Bitcoin
+&lt;strong&gt;XMR&lt;/strong&gt; = Monero&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt;&lt;em&gt;Monero&lt;/em&gt;&lt;/th&gt;
+      &lt;th&gt;&lt;em&gt;Dash&lt;/em&gt;&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Sync blockchain&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;~ 2 – 24 hours&lt;/td&gt;
+      &lt;td&gt;~ 1 – 2 hours&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Protocol confirmation time&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;~ 1 minute&lt;/td&gt;
+      &lt;td&gt;~ 2 minutes&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;0.02 XBT bought:&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;18.2033312&lt;/td&gt;
+      &lt;td&gt;2.91&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Price of alternative coin&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;0.0010987 XBT&lt;/td&gt;
+      &lt;td&gt;0.00673189 DASH&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Withdrawal fee (Poloniex)&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;0.2 XMR&lt;/td&gt;
+      &lt;td&gt;0.05 DASH&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Coin amount after withdrawal&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;18.0033312&lt;/td&gt;
+      &lt;td&gt;2.86&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Minimum mixing amount&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;None&lt;/td&gt;
+      &lt;td&gt;1.49 DASH&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Maximum mixing amount&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;1 bitcoin if using xmr.to&lt;/td&gt;
+      &lt;td&gt;limited to 1000 DASH per session&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Requires multiple sessions&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;No&lt;/td&gt;
+      &lt;td&gt;Yes, for large amounts and when ‘Dark Sending’&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Mixing transaction fees&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;0.105 XMR&lt;/td&gt;
+      &lt;td&gt;Unable to ascertain&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Mixing time including blocks&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;9 minutes 50 seconds&lt;/td&gt;
+      &lt;td&gt;Didn’t complete&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Buy back XBT price&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;0.001063&lt;/td&gt;
+      &lt;td&gt;0.00696206&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Total fees as a percentage&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;4.942 %&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Total XBT after Mixing&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;0.0191735&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;em&gt;NB.&lt;/em&gt; &lt;em&gt;‘Total fees as a percentage’&lt;/em&gt; may seem a bit off because I paid the mixing transaction fee from additional Monero funds.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;time-to-mix&quot;&gt;Time to mix&lt;/h2&gt;
+&lt;p&gt;With alt coin prices being volatile, the time it takes to mix is a critical factor to consider when transferring out of and back into Bitcoin.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;dash&quot;&gt;Dash&lt;/h2&gt;
+
+&lt;p&gt;Dash’s mixing system is currently called &lt;em&gt;Dark Send&lt;/em&gt;. For a detailed overview &lt;a href=&quot;https://dashpay.atlassian.net/wiki/display/DOC/Introduction+To+Darksend&quot;&gt;read the documentation&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;A quick description of the process is you press the &lt;em&gt;‘Start Darksend Mixing’&lt;/em&gt; button and this is like a premixing step. Every &lt;strong&gt;10&lt;/strong&gt; blocks &lt;em&gt;Master Nodes&lt;/em&gt; mix your coins and break them down into homogenous denominations, giving you back other people’s (or liquidity providers) mixed coins of the same denominations.&lt;/p&gt;
+
+&lt;p&gt;The catch is though that the process has a percentage status bar and if it doesn’t reach 100% then the mix is tainted with your original coins.&lt;/p&gt;
+
+&lt;p&gt;Initially I wanted to do this experiment with only 0.01 bitcoin, but as I found out the hard way - Dash has a minimum threshold requirement of 1.49 Dash (and my 0.01 bitcoin only got me 1.43!)&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;I only counted one of the withdrawal fees in the Dash column&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;After 4 hours and 5 minutes of mixing with Dash I realised it was 6am and should probably get some sleep. It was at 84% and I clicked ‘Stop Darksend Mixing’.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The reason I stopped the mixing process is because I wanted to accurately time how long the mix took and be there to stop the timer when it reached 100%.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The next day, I clicked ‘Start Darksend Mixing’ – at this stage the completion box showed 90%. After waiting another 70 minutes the completion box still showed 90%. I ran out of patience at this point and concluded the coins were stuck as a result of interrupting the mixing process.&lt;/p&gt;
+
+&lt;p&gt;My Darksend Balance showed that I had 2.4 Dash with some dust available to spend. So I try to Dark Send my 2.4, but got this error:
+&lt;img src=&quot;/images/unableToAnonymise.png&quot; alt=&quot;errorMsgUnableToAnonymise&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A quick read of the &lt;a href=&quot;https://dashtalk.org/forums/darksend-questions-and-help.77/&quot;&gt;Dash support forum section on dark send&lt;/a&gt; shows I’m not alone with my struggle to mix Dash.&lt;/p&gt;
+
+&lt;p&gt;I gave up trying to anonymously send Dash because I thought Dark Sending again would take another 5 hours on top of the time for debugging the stuck coins issue. It turns out though, you only have to wait for the initial premixing to complete 100% once.&lt;/p&gt;
+
+&lt;p&gt;However, debugging the stuck coins issue not knowing whether or not I’d need to wait another 5 hours to 100% complete the premix was not an appealing prospect so I sent the coins back only 90% mixed to the exchange (thus destroying any anonymity those coins would have gained).&lt;/p&gt;
+
+&lt;p&gt;The creator of Dash is working on changing the way Dark Send works ‘a bit’ by removing the mixing role from the Master Nodes. Just as well because Dark Send in its current state didn’t work at all.&lt;/p&gt;
+
+&lt;p&gt;Perhaps if I hadn’t interrupted the mixing process, it may have worked. But the inability to pause a Dark Send seems like a pretty major bug to me. What if you were mixing coins at a public location on a laptop and you had to close the lid for a few minutes?&lt;/p&gt;
+
+&lt;p&gt;Still, even if it had worked, waiting ~ 5 hours to mix under $10 worth of bitcoins doesn’t feel like the future of untraceable digital cash..&lt;/p&gt;
+
+&lt;h2 id=&quot;monero&quot;&gt;Monero&lt;/h2&gt;
+&lt;p&gt;Monero mixes instantly by using &lt;a href=&quot;https://getmonero.org/knowledge-base/moneropedia/ringsignatures&quot;&gt;ring signatures&lt;/a&gt; and &lt;a href=&quot;https://getmonero.org/knowledge-base/moneropedia/stealthaddress&quot;&gt;stealth addresses&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A ring signature is a group of cryptographic signatures with at least one real participant, but there is no way to tell which in the group is the real one as they all appear valid&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Stealth addresses let the recipient publish just one address, yet have all of his/her incoming payments go to unique addresses on the blockchain, where they cannot be linked back to either the recipient’s published address or any other transactions’ addresses&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Poloniex doesn’t let you mix Monero from their wallet, so I used two other Monero wallet/exchange services:&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;a href=&quot;https://mymonero.com&quot;&gt;&lt;img src=&quot;/images/mymonero.png&quot; alt=&quot;Mymonero&quot; /&gt;&lt;/a&gt; MyMonero is a wallet that let me send the coins with a configurable privacy level.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;a href=&quot;https://xmr.to&quot;&gt;&lt;img src=&quot;/images/xmrto.png&quot; alt=&quot;xmr.to&quot; /&gt;&lt;/a&gt; XMR.TO is a one-way Monero to Bitcoin exchange which I used to buy back the bitcoins with the &lt;em&gt;moneroj&lt;/em&gt; (term for Monero coins) I bought from &lt;a href=&quot;https://poloniex.com&quot;&gt;Poloniex&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://getmonero.org/home&quot;&gt;Monero&lt;/a&gt; is the clear winner with its no minimum, hassle free and ultra-fast mixing!&lt;/p&gt;
+
+&lt;p&gt;Keep in mind though that it’s generally a good idea to wait some random amount of time when you mix to prevent attackers correlating your transactions with &lt;a href=&quot;https://bitcoinmagazine.com/articles/is-bitcoin-anonymous-a-complete-beginner-s-guide-1447875283&quot;&gt;timing analysis&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Importance of Anonymous Money</title>
+   <link href="http://makemoneywhileyouwork.com/2015/12/17/the-importance-of-anonymous-money/"/>
+   <updated>2015-12-17T00:00:00+08:00</updated>
+   <id>http://makemoneywhileyouwork.com/2015/12/17/the-importance-of-anonymous-money</id>
+   <content type="html">&lt;h2 id=&quot;if-cash-were-banned&quot;&gt;If cash were banned…&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/images/wallet.jpg&quot; alt=&quot;wallet with only credit cards&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Imagine a world where all transactions were between known and identified parties, cash replaced by banking products that followed ‘Know Your Customer’ procedures diligently. The argument for this utopia goes that there’d be much less crime in general, less fraud, tax evasion, illicit drugs &amp;amp; other illegal acts.&lt;/p&gt;
+
+&lt;h3 id=&quot;less-crime-or-more&quot;&gt;Less crime, or more?&lt;/h3&gt;
+&lt;p&gt;If we required every transaction to be detailed with the nature and purpose, along with the identities to reduce crime, it may save lives - but at what cost?&lt;/p&gt;
+
+&lt;p&gt;The regulations around knowing your customer currently only apply to financial services businesses because they deal with large amounts of money. If every bank checked what the purpose was for every transaction (large or small), people would get silly questions about their shopping activities for example.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;‘You bought this tablet just for yourself?’&lt;/p&gt;
+
+  &lt;p&gt;‘Yes.’&lt;/p&gt;
+
+  &lt;p&gt;‘Okay, make sure to register any family members or friends who do any online shopping on it with us.’&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This example is kind of exaggerated and I hope it never gets anywhere close to this but it shows how complete knowledge of a customer’s activities might engender a mutual distrust.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Have you bought bitcoins before?&lt;/strong&gt;
+In case you haven’t experienced buying bitcoins yet, try using your bank account and see if you receive a phone call from your bank inquiring about the reason why you are buying them. You can tell them you were just trying it to see if they would check up on your transactions!&lt;/p&gt;
+
+&lt;h3 id=&quot;less-fraud-because-banks-have-everything-under-control&quot;&gt;Less fraud (because banks have everything under control)&lt;/h3&gt;
+&lt;p&gt;When I was scammed buying a phone on the Internet I thought:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Everything will be okay, my bank has a fraud department and a money back guarantee! I remember from the TV advert.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;But banks have a &lt;em&gt;very&lt;/em&gt; different definition of fraud to what most consumers have.&lt;/p&gt;
+
+&lt;p&gt;As a consumer, you expect that when someone uses their bank account to scam you - banks will act to protect you. Here is the catch of bank’s fraud protection:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;You didn’t contribute to the loss&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So if you send money to a bank account, that is contributing to the loss and there is no protection for that loss.&lt;/p&gt;
+
+&lt;p&gt;In a world without cash and more dependability on banking services, I expect there’d be the same level or more fraud because scammers will spend their ill gotten gains ASAP anyway, leaving a merchant somewhere at a loss if the transaction is reversed.&lt;/p&gt;
+
+&lt;h3 id=&quot;more-tax-collected&quot;&gt;More tax collected&lt;/h3&gt;
+&lt;p&gt;If everyone was forced to use a government monitored stored value account, nobody could possible avoid paying tax. This is just a recipe for disaster. Paying tax not only supports schools, hospitals and police - it also supports political corruption, corporations (who usually don’t pay tax anyway), propaganda, cronyism, inequality and most disgustingly, large scale wars.&lt;/p&gt;
+
+&lt;p&gt;There are much better ways to support schools, hospitals and police than collecting taxes, one idea is to actually give them money, voluntarily! Relying on subsidies is an unworkable and corruptible practice that needs to cease now.&lt;/p&gt;
+
+&lt;h3 id=&quot;illicit-drugs&quot;&gt;Illicit drugs&lt;/h3&gt;
+&lt;p&gt;The war on drugs has to be one of the most successful government propaganda stories ever told. Not only was the most popular drug at the time;marijuana, made illegal &lt;a href=&quot;http://www.drugwarrant.com/articles/why-is-marijuana-illegal/&quot;&gt;without due process&lt;/a&gt; - it has very many &lt;a href=&quot;http://www.businessinsider.com/health-benefits-of-medical-marijuana-2014-4?op=1&quot;&gt;medicinal benefits&lt;/a&gt; when used in moderation.&lt;/p&gt;
+
+&lt;p&gt;And there are many other illicit drugs that can also have &lt;a href=&quot;http://www.nytimes.com/2014/03/04/health/lsd-reconsidered-for-therapy.html?_r=0&quot;&gt;psychological health benefits too&lt;/a&gt; when used in moderation.&lt;/p&gt;
+
+&lt;h3 id=&quot;other-illegal-acts&quot;&gt;Other illegal acts&lt;/h3&gt;
+&lt;p&gt;If you take away peoples’ privacy, control, money and drugs - it really is the best recipe to encourage them to commit other illegal acts to fight ‘the system’. The government should treat its citizens like with maturity and respect and not distrust and contempt.&lt;/p&gt;
+
+&lt;h3 id=&quot;isnt-bitcoin-anonymous&quot;&gt;Isn’t Bitcoin anonymous?&lt;/h3&gt;
+&lt;p&gt;No.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.bitcoinisnotanonymous.com&quot;&gt;bitcoinisnotanonymous.com&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Getting started with crypto-currency</title>
@@ -57,7 +316,7 @@ There are several ways to get coins, here are the main ones:&lt;/p&gt;
 &lt;p&gt;This is the simplest option you’ve got. There are several places to buy from, with &lt;a href=&quot;https://www.coinbase.com/join/leotreasure&quot;&gt;Coinbase&lt;/a&gt; being my favorite. They have a special deal where if you click that link and buy $100 of bitcoins, you get an extra 10%! Coinbase is also a wallet (also my personal favorite, there’s no fees). The Bitcoin market changes on a day to day basis, so I recommend buying while the Bitcoin market is weak. That’s the easiest option.&lt;/p&gt;
 
 &lt;h3 id=&quot;mining&quot;&gt;Mining&lt;/h3&gt;
-&lt;p&gt;This is probably the most complicated option there is. At this point, Bitcoin is so difficult to mine, you’ll need a “mining rig” to get anything. (Mining rigs are computers made custom just for mining cryptocurrencies.) I won’t get too in depth with this. Basically, miners solve increasingly difficult algorithms while validating transactions. If you want to mine, just search for Bitcoin mining pools for directions, because each pool has different recommendations for setups.&lt;/p&gt;
+&lt;p&gt;This is probably the most complicated option there is. At this point, Bitcoin is so difficult to mine, you’ll need a “mining rig” to get anything. (Mining rigs are computers made custom just for mining cryptocurrencies.) I won’t get too in depth with this. Basically, miners solve difficult algorithms while validating transactions. If you want to mine, just search for ‘Bitcoin mining pools’ and looks for directions, because each pool has different recommendations for setups.&lt;/p&gt;
 
 &lt;h3 id=&quot;fauceteering&quot;&gt;Fauceteering&lt;/h3&gt;
 &lt;p&gt;My own made up word for what I do &lt;em&gt;all the time&lt;/em&gt;. There are many, many websites out there that display an amazing amount of ads (so many that you can’t believe how there’s room for anything else), and in exchange for going to that site, you get free bitcoins. Not much, but it adds up (eventually). This is how I got started, and how I recommend you get started. You can find my personally approved list of faucets here. &lt;a href=&quot;http://www.writeurl.com/text/dnrcaa6a1w3q3bvbd4bu/81g4zd4spcs4mutrq5rv&quot;&gt;List of faucets&lt;/a&gt;&lt;/p&gt;
@@ -66,9 +325,10 @@ There are several ways to get coins, here are the main ones:&lt;/p&gt;
 &lt;p&gt;The kind of frowned upon way. I personally don’t like this method. This wasn’t included in the main ways to get Bitcoin for a reason. There are sites that you can spend Bitcoin and play a hi-low game, sometimes winning a ton of money, sometimes losing a ton of money. To find Bitcoin gambling sites just go to a faucet, you’ll find tons of ads for them. Or of course there are also gambling sites specifically for Monero, like &lt;a href=&quot;http://monerodice.net&quot;&gt;MoneroDice&lt;/a&gt; and &lt;a href=&quot;http://safedice.com&quot;&gt;SafeDice&lt;/a&gt;. Please use them at your own risk and don’t lose all of your money to a game.&lt;/p&gt;
 
 &lt;h2 id=&quot;getting-started-with-monero&quot;&gt;Getting Started with Monero&lt;/h2&gt;
-&lt;p&gt;There are two ways to get started with Monero. There aren’t many faucets yet, so you’re pretty much limited to either buying or mining.
-##Buying Monero
-You aren’t really going to find many places to buy Monero for cash. The easiest way to get some Monero is to first buy some of (almost) any cryptocurrency, most likely Bitcoin or Litecoin. Then, you go to &lt;a href=&quot;https://shapeshift.io&quot;&gt;shapeshift.io&lt;/a&gt;. ShapeShift is a website that will convert (almost) any cryptocurrency, with no account required.&lt;/p&gt;
+&lt;p&gt;There are two ways to get started with Monero. There aren’t many faucets yet, so you’re pretty much limited to either buying or mining.&lt;/p&gt;
+
+&lt;h3 id=&quot;buying-monero&quot;&gt;Buying Monero&lt;/h3&gt;
+&lt;p&gt;You aren’t really going to find many places to buy Monero for cash. The easiest way to get some Monero is to first buy some of (almost) any cryptocurrency, most likely Bitcoin or Litecoin. Then, you go to &lt;a href=&quot;https://shapeshift.io&quot;&gt;shapeshift.io&lt;/a&gt;. ShapeShift is a website that will convert (almost) any cryptocurrency, with no account required.&lt;/p&gt;
 
 &lt;h3 id=&quot;mining-monero&quot;&gt;Mining Monero&lt;/h3&gt;
 &lt;p&gt;Mining Monero isn’t &lt;em&gt;nearly&lt;/em&gt; as hard as mining Bitcoin, but is still a complicated process. With Monero, you can use a personal computer to mine still, but you won’t get as fast as dedicated mining rigs out there. Personally, I suggest using the Yam client with the &lt;a href=&quot;https://moneropool.com/&quot;&gt;MoneroPool&lt;/a&gt; mining pool. &lt;a href=&quot;https://moneropool.com/#getting_started&quot;&gt;Instructions for download and setup are on their website&lt;/a&gt;.&lt;/p&gt;
