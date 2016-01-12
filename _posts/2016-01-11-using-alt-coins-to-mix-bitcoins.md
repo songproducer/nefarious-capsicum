@@ -16,7 +16,7 @@ You might be wondering, why use an alternative coin to mix bitcoins when you can
 
 Because Bitcoin's blockchain can be more easily analysed with blockchain analysis tools like [Wallet Explorer](https://www.walletexplorer.com/), [Coinalytics](http://coinalytics.co/) and [QuantaBytes](http://www.quantabytes.com/).
 
-So while there are many ways to mix bitcoins, I wanted to compare two alternative coins that are touted to make your transaction activity private and untraceable; [Dash](https://www.dash.org/) & [Monero](https://getmonero.org/home).
+Mixing bitcoins can also take a long time. So while there are many ways to mix bitcoins, I wanted to compare two alternative coins that are touted to make your transaction activity private and untraceable; [Dash](https://www.dash.org/) & [Monero](https://getmonero.org/home).
 
 - - -
 
