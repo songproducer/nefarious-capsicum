@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using alt coins to mix bitcoins
+title: 用山寨幣來混合比特幣
 comments: true
 name: using-alt-coins
 ---
