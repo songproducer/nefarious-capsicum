@@ -41,7 +41,7 @@ Mixing bitcoins can also take a long time. So while there are many ways to mix b
 |                                  |*Monero*                 |*Dash*                                        |
 |----------------------------------|-------------------------|----------------------------------------------|
 |**Sync blockchain**               |~ 2 – 24 hours           |~ 1 – 2 hours                                 |
-|**Protocol confirmation time**    |~ 1 minute               |~ 2 minutes                                   |
+|**Protocol confirmation time**    |~ 1 minute               |~ 2.5 minutes                                   |
 |**0.02 XBT bought:**              |18.2033312 XMR           |2.91 DASH                                          |
 |**Price of alternative coin**     |0.0010987 XBT            |0.00673189 DASH                               |
 |**Withdrawal fee (Poloniex)**     |0.2 XMR                  |0.05 DASH                                     |
