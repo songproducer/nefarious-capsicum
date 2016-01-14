@@ -5,8 +5,6 @@ comments: true
 name: using-alt-coins
 ---
 
-用山寨幣來混合比特幣
-
 如果你在想為什麼混合比特幣是重要的，你可以讀以下的文章：
 
 [bitcoin.org/en/protect-your-privacy](https://bitcoin.org/zh_TW/protect-your-privacy)
@@ -43,20 +41,20 @@ name: using-alt-coins
 
 |                                           |*Monero瑪諾幣*            |*Dash達世幣*                                   |
 |-------------------------------------------|-------------------------|----------------------------------------------|
-|**Sync blockchain同步區塊練**                |~ 2 – 24 hours小時        |~ 1 – 2 hours小時                             |
+|**同步區塊練**                |~ 2 – 24 hours小時        |~ 1 – 2 hours小時                             |
 |**協議確認時間**                             |~ 1 minute 分鐘           |~ 2 minutes 分鐘                              |
-|**0.02 XBT bought買進:**                    |18.2033312 XMR           |2.91 DASH                                    |
-|**Price of alternative coin山寨幣的價格**    |0.0010987 XBT            |0.00673189 DASH                               |
-|**Withdrawal fee 領出手續費(Poloniex)**      |0.2 XMR                  |0.05 DASH                                     |
-|**Coin amount after withdrawal領出後的幣量** |18.0033312               |2.86                                          |
-|**Minimum mixing amount最小混合量**          |None                     |1.49 DASH                                     |
-|**最大混合量**                               |如果用xmr.to要1個比特幣     |每個區間限制最多1000個達世幣        |
-|**Requires multiple sessions需要多次區間**   |No                       |需要，大量和當使用'Dark Sending'時|
-|**Mixing transaction fees混合手續費**        |0.105 XMR                |無法查證                          |
-|**Mixing time including blocks混合進區塊練的時間** |9 minutes 50 seconds |Didn't complete 未完成                             |
-|**Buy back XBT price買回比特幣的價錢**        |0.001063                 |0.00696206                                    |
-|**Total fees as a percentage手續費的比例**    |4.942 %                  |                                             |
-|**Total XBT after Mixing混合後比特幣剩餘量**   |0.0191735                |                                             |
+|**0.02 XBT 買進:**                    |18.2033312 XMR           |2.91 DASH                                    |
+|**山寨幣的價格**                       |0.0010987 XBT            |0.00673189 XBT                               |
+|**領出手續費(Poloniex)**      |0.2 XMR                  |0.05 DASH                                     |
+|**領出後的幣量** |18.0033312               |2.86                                          |
+|**最小混合量**          |無                     |1.49 DASH                                     |
+|**最大混合量**                               |如果用xmr.to 1個最多比特幣     |每個區間限制最多1000個達世幣        |
+|**需要多次區間**   |不需要                       |需要，大量和當使用'Dark Sending'時|
+|**混合手續費**        |0.105 XMR                |無法查證                          |
+|**混合進區塊練的時間** |9 分鐘 50 秒 |未完成                             |
+|**買回比特幣的價錢**        |0.001063                 |0.00696206                                    |
+|**手續費的比例**    |4.942 %                  |                                             |
+|**混合後比特幣剩餘量**   |0.0191735                |                                             |
 
 
 
