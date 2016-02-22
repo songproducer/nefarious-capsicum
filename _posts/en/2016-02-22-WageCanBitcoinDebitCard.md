@@ -33,4 +33,4 @@ I recently started working for WageCan because they have an innovative product, 
 
 Just today I worked out the fees for withdrawing cash at an ATM in Taiwan to be under 1% and that's including the ATM operator fee!
 
-I've yet to make an online purchase with the WageCan debit card, but will update this blog when I do.
+I've yet to make an online purchase with the WageCan debit card, but will update this post when I do.
