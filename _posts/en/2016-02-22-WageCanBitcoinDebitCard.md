@@ -22,6 +22,7 @@ To work out the true fees I compared the amount taken in Aussie dollars with the
 ![XE spot rate](/images/xerate.png)
 
 Amount taken in AUD / (XE rate * US dollar amount)
+
 $35.37/(1.35465*$25)
 
 which equals 1.0444, so minus 1 to get just the fees and it works out to around 4.44%!!
