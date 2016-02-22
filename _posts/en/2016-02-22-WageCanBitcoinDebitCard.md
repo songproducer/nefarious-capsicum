@@ -4,7 +4,7 @@ title: Why you should get a Bitcoin debit card
 comments: true
 ---
 
-As a Bitcoiner, holding over 90% of my savings in crypto-currency, a Bitcoin debit card is a convenient way to get fast access to my money without the ridiculous fees that come with credit cards.
+####As a Bitcoiner, holding over 90% of my savings in crypto-currency, a Bitcoin debit card is a convenient way to get fast access to my money without the ridiculous fees that come with credit cards.
 -----
 
 ### US dollar based card
