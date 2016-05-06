@@ -21,7 +21,7 @@ Mixing bitcoins can also take a long time. So while there are many ways to mix b
 
 - - -
 
-####My goal was to mix the relatively small sum of 0.02 bitcoins (just under $10 USD worth)
+#### My goal was to mix the relatively small sum of 0.02 bitcoins (just under $10 USD worth)
 
 - - -
 **The process:**
@@ -34,7 +34,7 @@ Mixing bitcoins can also take a long time. So while there are many ways to mix b
 
 ---
 
-###Results table
+### Results table
 
 *Note:* **XBT** = Bitcoin
 **XMR** = Monero
@@ -65,7 +65,7 @@ With alt coin prices being volatile, the time it takes to mix is a critical fact
 
 ---
 
-##Dash
+## Dash
 
 Dash's mixing system is currently called *Dark Send*. For a detailed overview [read the documentation](https://dashpay.atlassian.net/wiki/display/DOC/Introduction+To+Darksend).
 
@@ -98,7 +98,7 @@ Perhaps if I hadn't interrupted the mixing process, it may have worked. But the 
 
 Still, even if it had worked, waiting ~ 5 hours to mix under $10 worth of bitcoins doesn't feel like the future of untraceable digital cash..
 
-##Monero
+## Monero
 Monero mixes instantly by using [ring signatures](https://getmonero.org/knowledge-base/moneropedia/ringsignatures) and [stealth addresses](https://getmonero.org/knowledge-base/moneropedia/stealthaddress).
 
 >A ring signature is a group of cryptographic signatures with at least one real participant, but there is no way to tell which in the group is the real one as they all appear valid
@@ -115,7 +115,7 @@ Poloniex doesn't let you mix Monero from their wallet, so I used two other Moner
 
 - - -
 
-##Conclusion
+## Conclusion
 [Monero](https://getmonero.org/home) is the clear winner with its no minimum, hassle free and ultra-fast mixing!
 
 Keep in mind though that it's generally a good idea to wait some random amount of time when you mix to prevent attackers correlating your transactions with [timing analysis](https://bitcoinmagazine.com/articles/is-bitcoin-anonymous-a-complete-beginner-s-guide-1447875283).
