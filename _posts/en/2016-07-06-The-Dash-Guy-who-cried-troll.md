@@ -4,7 +4,7 @@ title: The Dash Guy who cried 'troll'
 comments: true
 ---
 
-### The Dash Guy who cried 'troll'
+### The Dash Guy who cried 'troll!'
 
 -----
 
@@ -22,7 +22,7 @@ I am not calling anyone a troll - that is name-calling and it's beneath me. This
 
 ### The story so far
 
-It started with The Dash Guy criticising people in the Dash community because someone appeared to be pestering/spamming the Project Manager. His emotions quickly got the better of him as his [post](https://www.dash.org/forum/threads/what-the-hell-is-wrong-with-this-picture-i-thought-we-were-a-decentralized-project.9229/) turned to rage. It transpired into his apparent exiting out of the Dash community:
+It started with The Dash Guy (herein referred to as TDG) criticising people in the Dash community because someone appeared to be pestering/spamming the Project Manager. His emotions quickly got the better of him as his [post](https://www.dash.org/forum/threads/what-the-hell-is-wrong-with-this-picture-i-thought-we-were-a-decentralized-project.9229/) turned to rage. It transpired into his apparent exiting out of the Dash community:
 
 >Delete my goddamn forum account please. i'm sick of this place, these people, and this shit drama.
 >I know (sic) see why vertoe left by the way. Same shit. Same problems.
@@ -34,13 +34,13 @@ Followed by a [post](https://bitcointalk.org/index.php?topic=1534087.msg15446668
 yea thats right, I got myself a Monero addy JUST to see how much you really love me.
 2 threads about me isn't good enough, put your money where your mouth is! I'll be waiting!
 
-The Dash Guy then [posts a link](https://www.reddit.com/r/Monero/comments/4qyi33/someone_owes_me_fanboy_tips/) to all this drama to reddit.com/r/monero:
+TDG then [posts a link](https://www.reddit.com/r/Monero/comments/4qyi33/someone_owes_me_fanboy_tips/) to all this drama to reddit.com/r/monero:
 
-He is courteously welcomed by Cryptofantom
+Courteously welcomed by Cryptofantom
 
 >Welcome friend, help us build Monero! :)
 
-and The Dash Guy starts soliciting tips:
+and TDG starts soliciting tips:
 
 >Give me some funds man! I'm a professional website designer just looking build out my cryptofolio: 43fn9DhL2eoCzuLz6EUwNoGD7KDbWFEwhAPyMCGJ6wxDZd7ULVodh1fKKiAMyzKLxoZSWMwPwz28yWf Str83dWf3HteRq9p
 
@@ -48,14 +48,14 @@ amoebatron also welcomes him:
 
 >I'm a bit confused, but welcome aboard regardless.
 
-The Dash Guy responds:
+TDG responds:
 
 >What confuses you? Honesty?
 
 -----
 
 
-### 2 days later, The Dash Guy has accumulated 300 XMR in tips and drops this bomb:
+### 2 days later, TDG has accumulated 300 XMR in tips and drops this bomb:
 
 >I will be using your funds to fund DashNation content and I am super greatful (sic) some of you have such a good heart, regardless of this, I still have to make a point about how this type of attitude is being wasted in your community, you guys spend so much time arguing, shaming, bitching & trolling that you don't have anytime left over to actually grow your coin! It's craziness I tell you!
 
@@ -67,7 +67,7 @@ The Dash Guy responds:
 
 >If you have to be rude to get your point across, maybe do more research on your point and come back with a better argument?
 
-### The Dash Guy's actions are not representative of the Dash community
+### TDG's actions are not representative of the Dash community
 
 Some comments from the reddit.com/DashPay community condemning his behaviour:
 
@@ -83,7 +83,7 @@ swinny89
 
 >This is stupid. As someone who currently holds only Dash, I am now embarrassed. What you did was stupid. Flaunting it is even more stupid. You look like a blatant hypocrite. Keep your posturing to yourself.
 
-#### Surprisingly, some at r/DashPay agree with the actions of The Dash Guy
+#### Surprisingly, some at r/DashPay agree with the actions of TDG
 
 ichigo13
 
@@ -99,11 +99,11 @@ Basilpop
 ...
 Now personally I didn't expect much from the "Monerbros", but the way the thread developed is exactly proving his point. Let him return the money, I don't really care, but it will change nothing in their behaviour.
 
-It's worth noting that several other similar 'Dash defector' posts appeared shortly after on r/Monero most likely posted by The Dash Guy using alternate accounts. It's possible that these supportive posts of The Dash Guy's actions are actually The Dash Guy himself.
+It's worth noting that several other similar 'Dash defector' posts appeared shortly after on r/Monero most likely posted by TDG using alternate accounts. It's possible that these supportive posts of TDG's actions are actually TDG himself.
 
 ### Mentally ill, scammer or immature kid?
 
-Mental health, criminality and unsupervised juvenile use of Internet are topics for another time. The Dash Guy was welcomed into the Monero community and he had already made up his mind to perceive these people as trolls. The point of this post is not to single out The Dash Guy as a bad person, but to show how peoples' motivations and perceptions can be really distorted when their investment is emotional.
+Mental health, criminality and unsupervised juvenile use of Internet are topics for another time. TDG was welcomed into the Monero community and he had already made up his mind to perceive these people as trolls. The point of this post is not to single out TDG as a bad person, but to show how peoples' motivations and perceptions can be really distorted when their investment is emotional.
 
 ### How to respond to trolling and alt-coin name-calling?
 Trolling and name-calling is a bit like fire; give it oxygen and it will grow. Years ago I became so angry at the immaturity on display at bitcointalk.org that I just stopped visiting the site and switched over to Reddit. Whenever I find arguments, I can easily skip to the next thread or just switch topics quickly. The best way to respond to fire is not to play with it. Put it out by leaving it to die and find something more useful to do with your time.
