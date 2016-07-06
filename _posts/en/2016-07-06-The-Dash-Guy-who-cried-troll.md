@@ -54,6 +54,7 @@ The Dash Guy responds:
 
 -----
 
+
 ### 2 days later, The Dash Guy has accumulated 300 XMR in tips and drops this bomb:
 
 >I will be using your funds to fund DashNation content and I am super greatful (sic) some of you have such a good heart, regardless of this, I still have to make a point about how this type of attitude is being wasted in your community, you guys spend so much time arguing, shaming, bitching & trolling that you don't have anytime left over to actually grow your coin! It's craziness I tell you!
@@ -82,7 +83,7 @@ swinny89
 
 >This is stupid. As someone who currently holds only Dash, I am now embarrassed. What you did was stupid. Flaunting it is even more stupid. You look like a blatant hypocrite. Keep your posturing to yourself.
 
-#### Surprisingly, some people agree with the actions of The Dash Guy
+#### Surprisingly, some at r/DashPay agree with the actions of The Dash Guy
 
 ichigo13
 
@@ -97,6 +98,8 @@ Basilpop
 >He wants the trolling between the communities to stop. He made a message of goodwill towards both projects and a desire for peace. How did you actually miss that?
 ...
 Now personally I didn't expect much from the "Monerbros", but the way the thread developed is exactly proving his point. Let him return the money, I don't really care, but it will change nothing in their behaviour.
+
+It's worth noting that several other similar 'Dash defector' posts appeared shortly after on r/Monero most likely posted by The Dash Guy using alternate accounts. It's possible that these supportive posts of The Dash Guy's actions are actually The Dash Guy himself.
 
 ### Mentally ill, scammer or immature kid?
 
