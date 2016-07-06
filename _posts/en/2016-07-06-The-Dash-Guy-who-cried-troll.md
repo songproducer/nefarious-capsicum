@@ -80,7 +80,7 @@ swinny89
 
 >This is stupid. As someone who currently holds only Dash, I am now embarrassed. What you did was stupid. Flaunting it is even more stupid. You look like a blatant hypocrite. Keep your posturing to yourself.
 
-#### Surprisingly, some at r/DashPay agree with the actions of TDG
+#### Disturbingly, some at r/DashPay agree with the actions of TDG
 
 ichigo13
 
