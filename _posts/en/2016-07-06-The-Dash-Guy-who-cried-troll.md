@@ -58,25 +58,25 @@ The Dash Guy responds:
 
 >I will be using your funds to fund DashNation content and I am super greatful (sic) some of you have such a good heart, regardless of this, I still have to make a point about how this type of attitude is being wasted in your community, you guys spend so much time arguing, shaming, bitching & trolling that you don't have anytime left over to actually grow your coin! It's craziness I tell you!
 
-#### The [reasons](https://bitcointalk.org/index.php?topic=1538753.0)? (Irony is strong)
+#### His [reasons](https://bitcointalk.org/index.php?topic=1538753.0)? (Irony is strong)
 
 >I just want us to succeed as a whole, I want to live in a (more) decentralized world where I'm not someone's corporate slave, and sadly Monerobros, you guys are helping ruin that entire idea with your tactless trolling and attacking of anyone/everyone in this space.
 
->If you have to be rude to get your point across, maybe do more research on your point and come back with a better argument?
-
 >I for one don't see a point in all this infighting between coins
+
+>If you have to be rude to get your point across, maybe do more research on your point and come back with a better argument?
 
 ### The Dash Guy's actions are not representative of the Dash community
 
 Some comments from the reddit.com/DashPay community condemning his behaviour:
 
-Hinnom_TX
-
->Fellow Dash and Monero enthusiasts, as well as newcomers, please do what you can to avoid feeding the trolls. TheDashGuy is a known attention whore, just made himself a troll today for both Dash and Monero, and probably spawned a few more trolls with this stunt.
-
 2WrongsNotRight
 
 >If no action is take in the next few days, I may consider refunding the XMR myself because that is the right thing to do. This PR move by /u/TheDashGuy is embarrassing.
+
+Hinnom_TX
+
+>Fellow Dash and Monero enthusiasts, as well as newcomers, please do what you can to avoid feeding the trolls. TheDashGuy is a known attention whore, just made himself a troll today for both Dash and Monero, and probably spawned a few more trolls with this stunt.
 
 swinny89
 
