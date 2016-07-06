@@ -104,8 +104,8 @@ It's worth noting that several other similar 'Dash defector' posts appeared shor
 
 Mental health, criminality and unsupervised juvenile use of Internet are topics for another time. TDG was welcomed into the Monero community and he had already made up his mind to perceive these people as trolls. The point of this post is not to single out TDG as a bad person, but to show how peoples' motivations and perceptions can be really distorted when their investment is emotional.
 
-### How to respond to trolling and alt-coin name-calling?
-Trolling and name-calling is a bit like fire; give it oxygen and it will grow. Years ago I became so angry at the immaturity on display at bitcointalk.org that I just stopped visiting the site and switched over to Reddit. Whenever I find arguments, I can easily skip to the next thread or just switch topics quickly. The best way to respond to fire is not to play with it. Put it out by leaving it to die and find something more useful to do with your time.
+### How to respond to trolling and name-calling?
+Trolling and name-calling is a bit like fire; give it oxygen and it will grow. Years ago I became so angry at the immaturity on display at bitcointalk.org that I just stopped visiting the site and switched over to Reddit. Whenever I find arguments, I can easily skip to the next thread or just switch topics quickly. The best way to respond to fire is not to play with it. Leave it to burn out and find something more useful to do with your time.
 
 ### In summary
 When investing in alt-coins: don't over-invest, spend some time in the community before you invest and please, don't feed the trolls.
