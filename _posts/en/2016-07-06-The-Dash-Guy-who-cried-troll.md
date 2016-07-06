@@ -68,17 +68,21 @@ The Dash Guy responds:
 Some comments from the reddit.com/DashPay community condemning his behaviour:
 
 Hinnom_TX
+
 >Fellow Dash and Monero enthusiasts, as well as newcomers, please do what you can to avoid feeding the trolls. TheDashGuy is a known attention whore, just made himself a troll today for both Dash and Monero, and probably spawned a few more trolls with this stunt.
 
 2WrongsNotRight
+
 >If no action is take in the next few days, I may consider refunding the XMR myself because that is the right thing to do. This PR move by /u/TheDashGuy is embarrassing.
 
 swinny89
+
 >This is stupid. As someone who currently holds only Dash, I am now embarrassed. What you did was stupid. Flaunting it is even more stupid. You look like a blatant hypocrite. Keep your posturing to yourself.
 
 #### Surprisingly, some people agree with the actions of The Dash Guy
 
 ichigo13
+
 >I do not agree with returning any of the funds TheDashGuy received from the Monero people. TheDashGuy took advantage of his talent of manipulation and made people think in a certain way (that he left the Dash project). Gullible people donated XMR to TheDashGuy. He pulled a successful troll attack just to signify how all the crypto crowd is still vulnerable to such attacks.
 ...
 Lessons learned:
@@ -86,6 +90,7 @@ Lessons learned:
 2) Don't be so gullible. Cryptocurrencies gave us the opportunity to send money anywhere in the world, you bet your ass more people will try to take advantage of that.
 
 Basilpop
+
 >He wants the trolling between the communities to stop. He made a message of goodwill towards both projects and a desire for peace. How did you actually miss that?
 ...
 Now personally I didn't expect much from the "Monerbros", but the way the thread developed is exactly proving his point. Let him return the money, I don't really care, but it will change nothing in their behaviour.
