@@ -16,9 +16,7 @@ The moral of the story is no one will ever believe a liar. But this is a differe
 
 >In Internet slang, a troll is a person who sows discord on the Internet by starting arguments or upsetting people, by posting inflammatory, extraneous, or off-topic messages in an online community with the deliberate intent of provoking readers into an emotional response for their own amusement.
 
-Internet trolls are unpleasant people on the Internet, sometimes resorting to foul language and name-calling. They usually go off-topic in an attempt to avoid logical debate.
-
-I am not calling anyone a troll - name-calling is not in my nature. I want to address issues and responses surrounding the audacity one guy had to upset an online crypto-community. I think this is noteworthy because it points to a larger issue we've unfortunately become familiar with in crypto-currency communities; the toxicity of name-calling. It has the overall effect of reducing peoples' desire to get involved with crypto-currency.
+I am not saying The Dash Guy is a troll - name-calling is not in my nature. I want to address issues and responses surrounding the audacity one guy had to upset an online crypto-community. I think it's noteworthy because it points to a larger issue we've unfortunately become familiar with in crypto-currency communities; name-calling. It has the overall effect of reducing peoples' desire to get involved with crypto-currency.
 
 ### The story so far
 
@@ -27,20 +25,20 @@ It started with The Dash Guy (herein referred to as TDG) criticising people in t
 >Delete my goddamn forum account please. i'm sick of this place, these people, and this shit drama.
 >I know (sic) see why vertoe left by the way. Same shit. Same problems.
 
-Followed by a [post](https://bitcointalk.org/index.php?topic=1534087.msg15446668#msg15446668) on the bitcointalk.org forum:
+Followed by a [post](https://bitcointalk.org/index.php?topic=1534087.msg15446668#msg15446668) on the bitcointalk.org forum indicating his desire to accept donations from the Monero community:
 
 >For all my Monero Fanbois:
 43fn9DhL2eoCzuLz6EUwNoGD7KDbWFEwhAPyMCGJ6wxDZd7ULVodh1fKKiAMyzKLxoZSWMwPwz28yWf Str83dWf3HteRq9p
 yea thats right, I got myself a Monero addy JUST to see how much you really love me.
 2 threads about me isn't good enough, put your money where your mouth is! I'll be waiting!
 
-TDG then [posts a link](https://www.reddit.com/r/Monero/comments/4qyi33/someone_owes_me_fanboy_tips/) to all this drama to reddit.com/r/monero:
+TDG then [posts a link](https://www.reddit.com/r/Monero/comments/4qyi33/someone_owes_me_fanboy_tips/) to the drama to reddit.com/r/monero:
 
-Courteously welcomed by Cryptofantom
+which is courteously welcomed by Cryptofantom
 
 >Welcome friend, help us build Monero! :)
 
-and TDG starts soliciting tips:
+and then TDG starts soliciting tips:
 
 >Give me some funds man! I'm a professional website designer just looking build out my cryptofolio: 43fn9DhL2eoCzuLz6EUwNoGD7KDbWFEwhAPyMCGJ6wxDZd7ULVodh1fKKiAMyzKLxoZSWMwPwz28yWf Str83dWf3HteRq9p
 
@@ -48,13 +46,13 @@ amoebatron also welcomes him:
 
 >I'm a bit confused, but welcome aboard regardless.
 
-TDG responds:
+TDG replies:
 
 >What confuses you? Honesty?
 
 -----
 
-### 2 days later, TDG has accumulated 300 XMR in tips and drops this bomb:
+### 2 days later, TDG has accumulated a generous 300 XMR (worth ~$650 USD) in tips and drops this bomb:
 
 >I will be using your funds to fund DashNation content and I am super greatful (sic) some of you have such a good heart, regardless of this, I still have to make a point about how this type of attitude is being wasted in your community, you guys spend so much time arguing, shaming, bitching & trolling that you don't have anytime left over to actually grow your coin! It's craziness I tell you!
 
