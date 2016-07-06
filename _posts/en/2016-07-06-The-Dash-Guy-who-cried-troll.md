@@ -53,6 +53,7 @@ The Dash Guy responds:
 >What confuses you? Honesty?
 
 -----
+
 ### 2 days later, The Dash Guy has accumulated 300 XMR in tips and drops this [bomb](https://bitcointalk.org/index.php?topic=1538753.0):
 
 >I will be using your funds to fund DashNation content and I am super greatful (sic) some of you have such a good heart, regardless of this, I still have to make a point about how this type of attitude is being wasted in your community, you guys spend so much time arguing, shaming, bitching & trolling that you don't have anytime left over to actually grow your coin! It's craziness I tell you!
