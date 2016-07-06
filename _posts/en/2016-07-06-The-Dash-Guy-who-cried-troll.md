@@ -18,11 +18,11 @@ The moral of the story is no one will ever believe a liar. But this is a differe
 
 Internet trolls are unpleasant people on the Internet, sometimes resorting to foul language and name-calling. They usually go off-topic in an attempt to avoid logical debate.
 
-I am not calling anyone a troll - that is name-calling and it's beneath me. This post is to address the issues and responses surrounding the audacity one guy had to upset an online community. I think this is noteworthy because it points to a larger issue we've unfortunately become familiar with in crypto-currency communities; the toxicity of name-calling. It has the overall effect of reducing the attractiveness of crypto-currency online communities.
+I am not calling anyone a troll - name-calling is not in my nature. I want to address issues and responses surrounding the audacity one guy had to upset an online crypto-community. I think this is noteworthy because it points to a larger issue we've unfortunately become familiar with in crypto-currency communities; the toxicity of name-calling. It has the overall effect of reducing peoples' desire to get involved with crypto-currency.
 
 ### The story so far
 
-It started with The Dash Guy (herein referred to as TDG) criticising people in the Dash community because someone appeared to be pestering/spamming the Project Manager. His emotions quickly got the better of him as his [post](https://www.dash.org/forum/threads/what-the-hell-is-wrong-with-this-picture-i-thought-we-were-a-decentralized-project.9229/) turned to rage. It transpired into his apparent exiting out of the Dash community:
+It started with The Dash Guy (herein referred to as TDG) criticising people in the Dash community because someone appeared to be pestering/spamming the Project Manager. His emotions got the better of him as his [post](https://www.dash.org/forum/threads/what-the-hell-is-wrong-with-this-picture-i-thought-we-were-a-decentralized-project.9229/) turned to rage. That transpired into his apparent exiting out of the Dash community:
 
 >Delete my goddamn forum account please. i'm sick of this place, these people, and this shit drama.
 >I know (sic) see why vertoe left by the way. Same shit. Same problems.
@@ -54,12 +54,11 @@ TDG responds:
 
 -----
 
-
 ### 2 days later, TDG has accumulated 300 XMR in tips and drops this bomb:
 
 >I will be using your funds to fund DashNation content and I am super greatful (sic) some of you have such a good heart, regardless of this, I still have to make a point about how this type of attitude is being wasted in your community, you guys spend so much time arguing, shaming, bitching & trolling that you don't have anytime left over to actually grow your coin! It's craziness I tell you!
 
-#### His [reasons](https://bitcointalk.org/index.php?topic=1538753.0)? (Irony is strong)
+#### In substantiating these actions he gives various [reasons](https://bitcointalk.org/index.php?topic=1538753.0) (Irony is strong):
 
 >I just want us to succeed as a whole, I want to live in a (more) decentralized world where I'm not someone's corporate slave, and sadly Monerobros, you guys are helping ruin that entire idea with your tactless trolling and attacking of anyone/everyone in this space.
 
