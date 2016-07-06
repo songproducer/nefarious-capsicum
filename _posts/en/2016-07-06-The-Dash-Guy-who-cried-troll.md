@@ -58,7 +58,7 @@ The Dash Guy responds:
 
 >I will be using your funds to fund DashNation content and I am super greatful (sic) some of you have such a good heart, regardless of this, I still have to make a point about how this type of attitude is being wasted in your community, you guys spend so much time arguing, shaming, bitching & trolling that you don't have anytime left over to actually grow your coin! It's craziness I tell you!
 
-#### The reasons? (Irony is strong)
+#### The [reasons](https://bitcointalk.org/index.php?topic=1538753.0)? (Irony is strong)
 
 >I just want us to succeed as a whole, I want to live in a (more) decentralized world where I'm not someone's corporate slave, and sadly Monerobros, you guys are helping ruin that entire idea with your tactless trolling and attacking of anyone/everyone in this space.
 
