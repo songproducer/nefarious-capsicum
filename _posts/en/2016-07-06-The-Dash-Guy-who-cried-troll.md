@@ -10,7 +10,7 @@ comments: true
 
 Everyone knows the story of the boy who cried wolf; a shepherd boy who repeatedly tricks villagers into thinking a wolf is attacking his sheep, but when a wolf really does attack his sheep and he calls for help - no villagers came - the wolf also ate the boy.
 
-The moral of the story is no one will ever believe a liar. But this is a different story - The Dash Guy who cried 'troll' - make up whatever moral of the story you like.
+The moral of the story is no one will ever believe a liar. But this is a different story - The Dash Guy who cried 'troll' - make up whatever moral you like.
 
 ### Internet troll
 
