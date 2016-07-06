@@ -14,7 +14,9 @@ The moral of the story is no one will ever believe a liar. But this is a differe
 
 ### Internet troll
 
-[Internet trolls][1] are unpleasant people on the Internet, sometimes resorting to foul language and name-calling. They usually go off-topic in an attempt to avoid logical debate.
+>In Internet slang, a troll is a person who sows discord on the Internet by starting arguments or upsetting people, by posting inflammatory, extraneous, or off-topic messages in an online community with the deliberate intent of provoking readers into an emotional response for their own amusement.
+
+Internet trolls are unpleasant people on the Internet, sometimes resorting to foul language and name-calling. They usually go off-topic in an attempt to avoid logical debate.
 
 I am not calling anyone a troll - that is name-calling and it's beneath me. This post is to address the issues and responses surrounding the audacity one guy had to upset an online community. I think this is noteworthy because it points to a larger issue we've unfortunately become familiar with in crypto-currency communities; the toxicity of name-calling. It has the overall effect of reducing the attractiveness of crypto-currency online communities.
 
@@ -104,5 +106,3 @@ Trolling and name-calling is a bit like fire; give it oxygen and it will grow. Y
 
 ### In summary
 When investing in alt-coins: don't over-invest, spend some time in the community before you invest and please, don't feed the trolls.
-
-[1]: In Internet slang, a troll is a person who sows discord on the Internet by starting arguments or upsetting people, by posting inflammatory, extraneous, or off-topic messages in an online community with the deliberate intent of provoking readers into an emotional response for their own amusement.
